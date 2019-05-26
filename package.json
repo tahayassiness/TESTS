@@ -1,0 +1,12 @@
+
+{
+
+  "scripts": {
+    "test": "jest"
+  },
+
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
+
